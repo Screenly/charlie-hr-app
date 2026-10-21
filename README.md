@@ -1,3 +1,5 @@
+[![Version](https://img.shields.io/github/v/release/Screenly/charlie-hr-app)](https://github.com/Screenly/charlie-hr-app/releases/latest)
+
 # Charlie HR App
 
 A digital signage dashboard that displays employee information from Charlie HR, including birthdays, work anniversaries, and current leave status. Perfect for office displays and team spaces.
